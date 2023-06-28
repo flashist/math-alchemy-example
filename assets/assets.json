@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "id": "PreloaderLogo",
+      "src": "assets/images/preloader/PreloaderLogo.png",
+      "fileType": "image",
+      "loadGroups": ["preload", "prepareGame"]
+    },
+    
+    {
+      "id": "NotoSansMath",
+      "src": "assets/fonts/NotoSansMath/NotoSansMath-Regular.ttf",
+      "fileType": "font",
+      "loadGroups": ["init"],
+      "fontFace": {
+        "font-family": "NotoSansMath"
+      }
+    },
+    {
+      "id": "NotoSerif-Regular",
+      "src": "assets/fonts/NotoSerif/NotoSerif-Regular.ttf",
+      "fileType": "font",
+      "loadGroups": ["init"],
+      "fontFace": {
+        "font-family": "NotoSerif"
+      }
+    },
+
+    {
+      "id": "BackspaceIcon",
+      "src": "assets/images/icons/BackspaceIcon.png",
+      "fileType": "image",
+      "loadGroups": ["init"]
+    },
+    {
+      "id": "PauseIcon",
+      "src": "assets/images/icons/PauseIcon.png",
+      "fileType": "image",
+      "loadGroups": ["init"]
+    }
+    
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/spritesheets/ui",
+  "images": [],
+  "folders": [
+    "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/ui"
+  ],
+  "packOptions": {
+    "textureName": "UI",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/spritesheets/ui",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 2,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

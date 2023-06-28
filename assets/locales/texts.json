@@ -1,0 +1,301 @@
+{
+	"en":{
+		"texts":{
+			"gameName":"Math Alchemy",
+			"preloader":{
+				"title":"Math Alchemy",
+				"progress":"LOADING: {progress}%"
+			},
+			"gamePage":{
+				"formulaTitle":"Formula",
+				"formulaReset":"Reset",
+				"formulaDiscoverBtn":"DISCOVER",
+                "formulaEmptyMessage": "To start select a number\nor an operation",
+				"numbersTitle":"Numbers",
+				"operationsTitle":"Operations",
+				"tasksTitle":"Current tasks",
+				"popups":{
+					"newDiscovery":{
+						"title":"NEW DISCOVERY",
+						"collectBtn":"COLLECT"
+					},
+					"help":{
+						"title":"HELP",
+						"info":"1. Your goal is to discover new mathematical elements by creating correct formulas.\n\n2. The sign “?” indicates the element (number or operation) which should be discovered.\n\n3. Each formula should have the only one sign “?” and the only one sign “=”.\n\n\t• Correct: 1+1=?\n\t• Also correct: 1?1=2 (the result is “+”)\n\t• Wrong: 1+1= (no sign “?”)\n\t• Also wrong: 1+1==?? (too many “=” and “?” signs)\n\n4. Formulas should be solvable and have the only one solution.\n\n\t• Correct: 1+?=10 (the solution is 9)\n\t• Wrong: 0×?=0 (there is infinite number of solutions)",
+						"closeBtn":"CLOSE"
+					}
+				},
+				"oldElementDiscoveryHint":"THE RESULT IS “{result}”,\nTHIS IS NOT A NEW DISCOVERY."
+			},
+			"errors":{
+				"default":"Incorrect formula.",
+				"equalSign":"There should be one “=” sign.",
+				"questionSign":"There should be one “?” sign.",
+				"operationNotDiscovered":"Operation can't be discovered."
+			},
+			"numbers":{
+				"zero":{
+					"title":"Zero",
+					"info":"Zero is often considered both nothing and everything at the same time, as it represents both emptiness and infinity. It serves as a placeholder in the decimal system and plays an important role in calculus and other advanced mathematical concepts."
+				},
+				"one":{
+					"title":"One"
+				},
+				"two":{
+					"title":"Two",
+					"info":"Two is the smallest and only even prime number. Because it forms the basis of a duality, it has religious and spiritual significance in many cultures."
+				},
+				"three":{
+					"title":"Three",
+					"info":"Three is the first odd prime number and the first super-prime number. The number 3 is considered a sacred number in many cultures and religions. In Christianity, it represents the Holy Trinity, while in Hinduism it symbolizes the three main gods: Brahma, Vishnu, and Shiva."
+				},
+				"four":{
+					"title":"Four",
+					"info":"Four is the smallest composite number, meaning it is not a prime number and can be divided by other numbers besides 1 and itself. In Chinese culture, the number 4 is considered unlucky because it sounds similar to the word for \"death\"."
+				},
+				"five":{
+					"title":"Five",
+					"info":"Five is the first safe prime, the first good prime and the first balanced prime. It is also a Fibonacci number, meaning it appears in the famous sequence where each number is the sum of the two preceding ones (1, 1, 2, 3, 5, 8, 13...)"
+				},
+				"six":{
+					"title":"Six",
+					"info":"Six is the first perfect number, meaning it is equal to the sum of its proper divisors (1, 2, and 3). In some cultures, it is considered a lucky number or symbolizes family and community."
+				},
+				"seven":{
+					"title":"Seven",
+					"info":"Seven is the only number that cannot be represented as the sum of three squares. The number 7 is often considered a mystical or spiritual number in many cultures and religions. It appears frequently in mythology and is associated with luck, perfection, and completeness."
+				},
+				"eight":{
+					"title":"Eight",
+					"info":"The number 8 is often associated with infinity and eternity, as it is the symbol for infinity turned on its side. It is also a lucky number in many cultures and represents wealth, prosperity, and success."
+				},
+				"nine":{
+					"title":"Nine",
+					"info":"Nine is the sum of the digits of any multiple of 9 always adding up to 9. It is often associated with completion and fulfillment, as it is the highest single-digit number and represents the end of a cycle."
+				}
+			},
+			"operations":{
+				"equal":{
+					"title":"Equal"
+				},
+				"question":{
+					"title":"Question"
+				},
+				"addition":{
+					"title":"Addition"
+				},
+				"substraction":{
+					"title":"Substraction",
+					"info":"Subtraction is a basic mathematical operation that involves finding the difference between two numbers. It can be used to represent situations where quantities are being taken away or removed, such as calculating change after making a purchase. Subtraction is not commutative, meaning that the order in which the numbers are subtracted does affect the result."
+				},
+				"multiplication":{
+					"title":"Multiplication",
+					"info":"Multiplication is an operation that involves finding the product of two or more numbers. It can be used to represent situations where quantities are being repeated or scaled up, such as calculating the total area of a rectangular garden. Interestingly, multiplication is also commutative, meaning that the order in which the numbers are multiplied does not affect the result."
+				},
+				"division":{
+					"title":"Division",
+					"info":"Division is the inverse of multiplication and involves dividing one number by another to find the quotient. It can be used to represent situations where quantities are being shared or divided up, such as dividing a pizza among friends. Division is not commutative, meaning that the order in which the numbers are divided does affect the result."
+				},
+				"exponentiation":{
+					"title":"Exponentiation",
+					"info":"Exponentiation is a mathematical operation that involves raising a number to a power. This means that you multiply the base number by itself a certain number of times, depending on the exponent. For example, 2 raised to the power of 3 (written as 2^3) equals 8, because 2 x 2 x 2 = 8. Exponents are used in a wide range of mathematical applications, from calculating interest rates to analyzing complex data sets."
+				},
+				"squareRoot":{
+					"title":"Square root",
+					"info":"Square root is an important mathematical operation that involves finding the value that, when multiplied by itself, equals a given number. For example, the square root of 16 is 4, because 4 x 4 = 16. Square roots are used in many different areas of mathematics and science, including geometry, physics, and engineering."
+				},
+				"factorial":{
+					"title":"Factorial",
+					"info":"Factorial is a mathematical operation that involves multiplying a number by all of the positive integers that come before it. For example, the factorial of 5 (written as 5!) equals 5 x 4 x 3 x 2 x 1 = 120. Factorials are used in many different areas of mathematics and statistics, such as calculating permutations and combinations."
+				},
+				"decimalPoint":{
+					"title":"Decimal point",
+					"info":"Decimal is a way of representing fractions using a base-10 system. It is used to express numbers that are not whole numbers or integers. Decimals are represented using a decimal point, which separates the whole number from the fractional part. For example, the decimal representation of one-third is 0.3333... Decimals are used in many different areas of mathematics and science, including finance, statistics, and physics."
+				},
+				"cos":{
+					"title":"Cosine",
+					"info":"Cosine is another important trigonometric function that can be used to calculate the relationship between angles and sides in a right triangle. One interesting fact about cosine is that it is closely related to the concept of rotation, making it a key tool in fields such as computer graphics and animation."
+				},
+				"sin":{
+					"title":"Sine",
+					"info":"Sine is a fascinating trigonometric function that has been used for centuries to understand the relationship between angles and sides in a right triangle. Interestingly, sine is also closely related to the concept of waves and oscillations, making it a crucial tool in fields such as physics and engineering."
+				},
+				"tan":{
+					"title":"Tangent",
+					"info":"Tangent is a trigonometric function that describes the relationship between the opposite and adjacent sides of a right triangle. One fascinating fact about tangent is that it is closely related to the concept of slope, making it an essential tool in fields such as calculus and physics."
+				}
+			},
+			"tasks":{
+				"discoverNumber":"• Discover number “{element}”",
+				"discoverOperation":"• Discover operation “{element}”"
+			},
+			"tutorial":{
+				"steps":{
+					"discoverNumberWelcome":"Welcome to Math Alchemy:\ngame of mathematical discoveries!\n\nTap to continue.",
+					"discoverNumberSelect1":"First things first,\nlet's discover a new number.\n\nSelect the number “1”.",
+					"discoverNumberSelectPlus":"Select the “+” operation.",
+					"discoverNumberSelect1Second":"Now select the number “1” again.",
+					"discoverNumberSelectEqual":"Select the “=” sign.",
+					"discoverNumberSelectQuestion":"And the “?” sign too.",
+					"discoverNumberPressDiscover":"Now press the “Discover” button and check the result of the formula “1+1=?”.",
+					"discoverNumberResult":"Congrats! Your first discovery is the number “2“.",
+					"discoverOperationWelcome":"Now is the time to discover a new mathematical operation: “substraction”.\n\nTap to continue.",
+					"discoverOperationSelect2":"Select the number “2”.",
+					"discoverOperationSelectQestion":"Select the “?” sign.",
+					"discoverOperationSelect1":"Now select the number “1”.",
+					"discoverOperationSelectEqual":"Select the “=” sign.",
+					"discoverOperationSelect1Second":"And the number “1” again.",
+					"discoverOperationPressDiscover":"Now press the “Discover” button and check the result of the formula “2?1=1”.",
+					"discoverOperationResult":"Congrats! You've just discovered your first operation: “substraction”.",
+					"tasksInfo":"If you ever get lost, try to complete one of the tasks you have.",
+					"errorInfo":"When your formulas don't work, pay attention to the error message.\n\nTap the message to see help.",
+					"editInfo":"You can edit your formulas with these buttons."
+				}
+			}
+		}
+	},
+
+    "ru":{
+		"texts":{
+			"gameName":"Math Alchemy",
+			"preloader":{
+				"title":"Math Alchemy",
+				"progress":"ЗАГРУЗКА: {progress}%"
+			},
+			"gamePage":{
+				"formulaTitle":"Формула",
+				"formulaReset":"Сбросить",
+				"formulaDiscoverBtn":"НАЙТИ",
+                "formulaEmptyMessage": "Чтобы начать - выберите\nчисло или операцию",
+				"numbersTitle":"Числа",
+				"operationsTitle":"Операции",
+				"tasksTitle":"Текущие задания",
+				"popups":{
+					"newDiscovery":{
+						"title":"НОВОЕ ОТКРЫТИЕ",
+						"collectBtn":"ЗАБРАТЬ"
+					},
+					"help":{
+						"title":"ПОМОЩЬ",
+						"info":"1. Цель игры - открытие математических элементов с помощью формул.\n\n2. Знак “?” указывает на число или операцию, которые должны быть найдены.\n\n3. Формулы должны иметь только один знак “?” и только один знак “=”.\n\n\t• Правильно: 1+1=?\n\t• Правильно: 1?1=2 (результат: “+”)\n\t• Неправильно: 1+1= (нет знака “?”)\n\t• Неправильно: 1+1==?? (слишком много заков “=” и “?”)\n\n4. У формул должно быть только 1 решение.\n\n\t• Правильно: 1+?=10 (решение: 9)\n\t• Неправильно: 0×?=0 (бесконечное количество решений)",
+						"closeBtn":"ЗАКРЫТЬ"
+					}
+				},
+				"oldElementDiscoveryHint":"РЕЗУЛЬТАТ: “{result}”,\nЭТО - НЕ НОВОЕ ОТКРЫТИЕ."
+			},
+			"errors":{
+				"default":"Неправильная формула.",
+				"equalSign":"В формуле должен быть один знак “=”.",
+				"questionSign":"В формуле должен быть один знак “?”.",
+				"operationNotDiscovered": "Операция не может быть найдена."
+			},
+			"numbers":{
+				"zero":{
+					"title":"Ноль",
+					"info":"Ноль часто ассоциируется одновременно и с ничем и со всем, потому что он представляет одновременно и пустоту и бесконечность. Он используется в качестве важного символа в десятичной системе исчисления и играет важную роль в математическом анализе и других разделах высшей математики"
+				},
+				"one":{
+					"title":"Один"
+				},
+				"two":{
+					"title":"Два",
+					"info":"Два - самое маленькое и единственный чётное простое число. Цифра два играет важную роль в религиях и духовных практиках, потому что олицетворяет собой дуальность."
+				},
+				"three":{
+					"title":"Три",
+					"info":"Три - первое нечётное простое число и первое суперпростое число. Цифра 3 является священной во многих культурах и религиях. В христианстве она представляет Святую Троицу, а в Индуизме символизирует трёх главных богов: Брахма, Вишну и Шива."
+				},
+				"four":{
+					"title":"Четыре",
+					"info":"Четыре - самое маленькое составное число. В китайской культуре цифра 4 считается приносящим неудачу, потому что его произношение схоже с произношением слова “смерть”."
+				},
+				"five":{
+					"title":"Пять",
+					"info":"Пять - первое безопасное и первое сбалансированное простое число. Так же, пять является числом Фибоначчи: оно используется в известной последовательности, в которой каждое число является суммой дву предыдущих чисел (1, 1, 2, 3, 5, 8, 13...)"
+				},
+				"six":{
+					"title":"Шесть",
+					"info":"Шесть - первое совершенное число: оно равно сумме своих делителей (1, 2 и 3). В некоторых культурах это число считаетя приносящим удачу, а так же символизирующем семью и сообщество."
+				},
+				"seven":{
+					"title":"Семь",
+					"info":"Семь - это единственное число, которое не может быть представленно в виде суммы квадратов трёх других целых чисел. Число семь считается мистическим или духовным числом во многих культурах и религиях, оно часто упоминается в мифологии и часто ассоциируется с удачей, совершенством и завершённостью."
+				},
+				"eight":{
+					"title":"Восемь",
+					"info":"Число восемь часто ассоциируется с бесконечностью и вечностью, потому что оно похоже на символ бесконечности, который повернули на 90 градусов. Во многих культурах это число является счастливым и представляет богатсво, процветание и успех."
+				},
+				"nine":{
+					"title":"Девять",
+					"info":"Интересной особенностью цифры 9 является то, что сумма цифр любого числа кратного 9, будет равна 9. Это число часто ассоциируется с завершением, потому что это самое большое число, состоящее из одной цифры, и ассоциируется с завершением цикла."
+				}
+			},
+			"operations":{
+				"equal":{
+					"title":"Равно"
+				},
+				"question":{
+					"title":"Вопрос"
+				},
+				"addition":{
+					"title":"Сложение"
+				},
+				"substraction":{
+					"title":"Вычитание",
+					"info":"Вычитание - это арифметическая операция нахождения разницы двух чисел. Эта операция может быть использована для описания ситуаций, когда количество чего-либо было уменьшено, например для подсчёта сдачи после оплаты покупки. Вычитание - антикоммунтативно: перемена мест аргументов вычитания меняет результа вычисления."
+				},
+				"multiplication":{
+					"title":"Умножение",
+					"info":"Умножение - это арифметическая операция, с помощью которого по двум числам (множителям) находят третее, которое назвывается произведением множителей. Умножение может быть использована для представления ситуаций, когда что-либо повторяется или увеличивается в масштабе. Умножение может быть использовано для нахождения площади прямоугольных фигур. Умножение является коммутативной операцией: от перемены мест множителей, значение операции не меняется."
+				},
+				"division":{
+					"title":"Деление",
+					"info":"Деление является операцией обратной умножению и заключается в делении одного числа на другое для нахожения результата (частного). Эта операция может быть использована для ситуаций, когда количество чего-либо делится, например, для разделения пиццы между друзьями. Деление - антикоммунтативно: перемена мест аргументов вычитания меняет результа вычисления."
+				},
+				"exponentiation":{
+					"title":"Возведение в степень",
+					"info":"Возведение в степень - это математическая операция умножения числа на само себя n раз, где n - показатель степень. Например, 2 в степень 3 (записывается как “2^3”) равно 8, потому что 2 x 2 x 2 = 8. Возведение в степень используется в таких областях математики, как рассчёт процентной ставки и анализ больших данных."
+				},
+				"squareRoot":{
+					"title":"Квадратный корень",
+					"info":"Квадратный корень - это важная математическая операция, которая заключается в нахождении значения, которое при умножении на себя даёт искомое число. Например, квадратный корень 16 равен 4, потому что 4 x 4 = 16. Квадратные корни используются в различных областях математики и наук, включая геометрию, физику и инженерию."
+				},
+				"factorial":{
+					"title":"Факториал",
+					"info":"Факториал числа - это произведение всех положительных чисел от 1 до N включительно. Например, факториал числа 5 (записывается как “5!” равен 5 x 4 x 3 x 2 x 1 = 120. Факториалы используются в разных областях математики и статистики, включая рассчёт перестановок и комбинаций."
+				},
+				"decimalPoint":{
+					"title":"Десятичная точка",
+					"info":"Десятичные дроби - это способ представления математических дробей используя десятичную систему исчесления. Этот способ используется для представления чисел, которые не являются целыми. Десятичные дроби представляются с помощью десятичной точки, которая разделяет целую часть от дробной. Например, десятичное представления одной-трети: 0.3333... Десятичные дроби используются в статистике, финансах, физике и других разделах математики и наук."
+				}
+			},
+			"tasks":{
+				"discoverNumber":"• Число “{element}”",
+				"discoverOperation":"• Операция “{element}”"
+			},
+			"tutorial":{
+				"steps":{
+					"discoverNumberWelcome":"Добро пожаловать в Math Alchemy: игру математических открытий!\n\nНажмите чтобы продолжить.",
+					"discoverNumberSelect1":"Первым делом, давайте найдём новое число.\n\nВыберите число “1”.",
+					"discoverNumberSelectPlus":"Выберете операцию “+”.",
+					"discoverNumberSelect1Second":"Теперь снова выберите число “1”.",
+					"discoverNumberSelectEqual":"Выберете знак “=”.",
+					"discoverNumberSelectQuestion":"И знак “?”.",
+					"discoverNumberPressDiscover":"Нажмите на кнопку “НАЙТИ”, чтобы проверить результат формулы “1+1=?”.",
+					"discoverNumberResult":"Ура! Вы сделали своё первое открытие: вы нашли число “2“.",
+					"discoverOperationWelcome":"А теперь давайте попробуем найти новую математическую операцию: “вычитание”.\n\nНамите чтобы продолжить.",
+					"discoverOperationSelect2":"Выберите число “2”.",
+					"discoverOperationSelectQestion":"Выберите знак “?”.",
+					"discoverOperationSelect1":"Теперь выберите число “1”.",
+					"discoverOperationSelectEqual":"Выберите знак “=”.",
+					"discoverOperationSelect1Second":"И снова число “1”.",
+					"discoverOperationPressDiscover":"Нажмите на кнопку “НАЙТИ”, чтобы проверить результат формулы “2?1=1”.",
+					"discoverOperationResult":"Вы только что открыли первую операцию: “Вычитание”!",
+					"tasksInfo":"Если вы не будете знать, что ещё можно открыть, попробуйте выполнить одно из заданий.",
+					"errorInfo":"В случае ошибки, обратите внимание на это сообщение.\n\nНажмите, чтобы перейти в Помощь.",
+					"editInfo":"Вы можете редактировать формулы с помощью этих кнопок."
+				}
+			}
+		}
+	}
+}

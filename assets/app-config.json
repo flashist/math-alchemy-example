@@ -1,0 +1,28 @@
+{
+  "appName": "Math Alchemy",
+  "appVersion": 0,
+  "locale": "en",
+  "files": [
+    {
+      "id": "assetsConfigFile",
+      "src": "assets/assets.json",
+      "fileType": "text",
+      "loadGroups": ["config"],
+      "loader": "config"
+    },
+    {
+      "id": "localeConfigFile",
+      "src": "assets/locales/texts.json",
+      "fileType": "text",
+      "loadGroups": ["config"],
+      "loader": "config"
+    },
+    {
+      "id": "staticItemsFile",
+      "src": "assets/static.json",
+      "fileType": "text",
+      "loadGroups": ["config"],
+      "loader": "config"
+    }
+  ]
+}

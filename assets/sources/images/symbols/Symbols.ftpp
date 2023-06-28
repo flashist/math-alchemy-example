@@ -1,0 +1,831 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/spritesheets/symbols",
+  "images": [
+    {
+      "name": "Symbol_Amethyst.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Amethyst.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Anchor.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Anchor.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Apple.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Apple.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Banana.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Banana.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Banana_Peel.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Banana_Peel.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Banknote.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Banknote.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bar_of_Soap.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bar_of_Soap.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bartender.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bartender.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bear.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bear.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Beastmaster.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Beastmaster.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bee.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bee.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Beehive.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Beehive.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Beer.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Beer.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Big_Ore.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Big_Ore.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Big_Urn.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Big_Urn.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Billionaire.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Billionaire.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bow_Gold.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bow_Gold.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bow_Silver.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bow_Silver.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bow_Wooden.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bow_Wooden.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Bubble.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Bubble.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Buffing_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Buffing_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Candy.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Candy.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Card_Shark.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Card_Shark.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cards_Clubs.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cards_Clubs.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cards_Diamonds.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cards_Diamonds.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cards_Hearts.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cards_Hearts.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cards_Spades.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cards_Spades.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cat.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cat.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cheese.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cheese.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Chef.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Chef.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Chemical_Seven.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Chemical_Seven.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cherry.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cherry.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Chick.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Chick.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Chicken.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Chicken.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Clown.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Clown.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Coal.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Coal.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Coconut.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Coconut.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Coconut_Half.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Coconut_Half.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Coin.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Coin.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cow.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cow.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Crab.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Crab.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Crow.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Crow.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Cultist.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Cultist.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Dame.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Dame.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Diamond_Gem.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Diamond_Gem.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D3_0.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D3_0.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D3_1.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D3_1.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D3_2.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D3_2.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D3_3.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D3_3.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D5_0.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D5_0.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D5_1.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D5_1.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D5_2.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D5_2.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D5_3.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D5_3.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D5_4.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D5_4.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Die_D5_5.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Die_D5_5.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Diver.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Diver.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Dog.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Dog.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Dove.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Dove.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Dud.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Dud.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Dwarf.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Dwarf.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Egg.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Egg.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Eldritch_Creature.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Eldritch_Creature.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Emerald.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Emerald.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Empty.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Empty.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Essence_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Essence_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Farmer.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Farmer.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Flower.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Flower.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Frozen_Fossil.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Frozen_Fossil.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Gambler.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Gambler.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Geologist.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Geologist.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Ghost.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Ghost.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Golden_Egg.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Golden_Egg.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Goldfish.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Goldfish.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Golem.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Golem.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Goose.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Goose.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Destruction.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Destruction.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Draining.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Draining.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Emptiness.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Emptiness.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Hoarding.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Hoarding.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Midas.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Midas.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Tedium.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Tedium.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hex_of_Thievery.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hex_of_Thievery.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Highlander.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Highlander.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Honey.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Honey.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hooligan.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hooligan.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Hustling_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Hustling_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Item_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Item_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Jellyfish.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Jellyfish.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Joker.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Joker.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Key.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Key.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_King_Midas.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_King_Midas.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Light_Bulb.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Light_Bulb.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Lockbox.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Lockbox.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Lucky_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Lucky_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Magic_Key.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Magic_Key.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Magpie.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Magpie.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Martini.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Martini.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Matryoshka_Doll.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Matryoshka_Doll.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Matryoshka_Doll_2.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Matryoshka_Doll_2.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Matryoshka_Doll_3.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Matryoshka_Doll_3.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Matryoshka_Doll_4.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Matryoshka_Doll_4.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Matryoshka_Doll_5.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Matryoshka_Doll_5.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Mega_Chest.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Mega_Chest.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Midas_Bomb.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Midas_Bomb.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Milk.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Milk.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Mine.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Mine.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Miner.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Miner.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Missing.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Missing.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Monkey.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Monkey.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Moon.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Moon.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Mouse.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Mouse.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Mrs_Fruit.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Mrs_Fruit.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Ninja.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Ninja.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Omelette.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Omelette.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Orange.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Orange.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Ore.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Ore.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Owl.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Owl.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Oyster.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Oyster.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Peach.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Peach.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Pear.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Pear.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Pearl.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Pearl.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Pinata.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Pinata.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Pirate.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Pirate.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Policeman.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Policeman.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Present.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Present.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Pufferfish.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Pufferfish.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Rabbit.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Rabbit.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Rabbit_Fluff.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Rabbit_Fluff.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Rain.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Rain.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Removal_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Removal_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Reroll_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Reroll_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Robin_Hood.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Robin_Hood.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Ruby.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Ruby.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Safe.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Safe.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Sapphire.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Sapphire.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Seed.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Seed.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Shiny_Pebble.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Shiny_Pebble.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Sloth.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Sloth.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Snail.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Snail.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Strawberry.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Strawberry.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Sun.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Sun.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Supervillain.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Supervillain.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Target.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Target.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Tedium_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Tedium_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Thief.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Thief.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Time_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Time_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Toddler.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Toddler.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Tomb.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Tomb.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Treasure_Chest.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Treasure_Chest.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Turtle.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Turtle.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Urn.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Urn.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Void_Creature.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Void_Creature.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Void_Fruit.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Void_Fruit.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Void_Stone.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Void_Stone.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Watermelon.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Watermelon.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Wealthy_Capsule.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Wealthy_Capsule.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Wine.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Wine.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Witch.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Witch.png",
+      "folder": ""
+    },
+    {
+      "name": "Symbol_Wolf.png",
+      "path": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/sources/images/symbols/Symbol_Wolf.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "Symbols",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 0.5,
+    "filter": "none",
+    "exporter": "pixi.js",
+    "fileName": "pack-result",
+    "savePath": "/Users/mark.dolbyrev/Workspace/apps/projects-in-progress/assets/spritesheets/symbols",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 2,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

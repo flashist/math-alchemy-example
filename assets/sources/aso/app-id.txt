@@ -1,0 +1,1 @@
+com.luckylandlord.luck.be.a.landlord.roguelike.deckbuilder.offline.roguelite.game
